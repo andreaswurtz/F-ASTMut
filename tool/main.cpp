@@ -49,8 +49,7 @@ static SchemataApiCpp* sac;
 //#define SPLIT_STREAM
 //#define MAXRUNTIME_ST_MS 60000
 //#define MOCK_SPLIT
-//#define 
-_NON_COMPILING_MUTANTS
+//#define _NON_COMPILING_MUTANTS
 //#define DEBUG_MODE
 //#define EXPORT_REACHABLE_MUTANTS
 
